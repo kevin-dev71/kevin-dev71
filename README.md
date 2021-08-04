@@ -2,7 +2,7 @@
 
 ### I am a MERN stack developer on the making
 
-i am stuck in the tutorial hell but making the path in The Odin Project curriculum to get solid bases knowledge and feel confident.
+i am stuck in the tutorial hell but making the path in The Odin Project curriculum to get solid bases knowledge and feel confident. Hope i can start building amazing and professional projects.
 
 now collaborating with [Uncle-Liquor](https://github.com/Uncle-Liquor) in the Frontend
 
