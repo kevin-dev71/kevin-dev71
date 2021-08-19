@@ -11,6 +11,7 @@ now collaborating with [Uncle-Liquor](https://github.com/Uncle-Liquor) in the Fr
 # Projects 💻 + 🧠 = 🏆
 
 - VanillaJS Project: https://vanillakev.netlify.app/   — from *[Codding Addict](https://www.youtube.com/watch?v=90PgFUPIybY)*
+- Next.js - [Ecommerce](https://previewdesafio.vercel.app/)
 - The Odin Project
     - google html and css -  [live demo](https://kevin-dev71.github.io/TOP-google-homepage/)
 
