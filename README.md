@@ -8,6 +8,13 @@ now collaborating with [Uncle-Liquor](https://github.com/Uncle-Liquor) in the Fr
 
 - 📫 How to reach me: kevin.developer71@gmail.com
 
+
+**Main Programming Languages**
+
+<code><a href="https://github.com/erianvc?tab=repositories&language=HTML"><img height="42" title="HTML5" alt="HTML5" src="https://cdn.svgporn.com/logos/html-5.svg"></a></code>
+<code><a href="https://github.com/erianvc?tab=repositories&language=CSS"><img height="42" title="CSS3" alt="CSS3" src="https://cdn.svgporn.com/logos/css-3.svg"></a></code>
+<code><a href="https://github.com/erianvc?tab=repositories&language=javascript"><img height="36" title="Javascript" alt="Javascript" src="https://cdn.svgporn.com/logos/javascript.svg"></a></code>
+
 # Projects 💻 + 🧠 = 🏆
 
 - VanillaJS Project: https://vanillakev.netlify.app/   — from *[Codding Addict](https://www.youtube.com/watch?v=90PgFUPIybY)*
