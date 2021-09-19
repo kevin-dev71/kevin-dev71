@@ -2,12 +2,11 @@
 
 ### I am a MERN stack developer on the making
 
-i am stuck in the tutorial hell but making the path in The Odin Project curriculum to get solid bases knowledge and feel confident. Hope i can start building amazing and professional projects and land the dreams job.
-
-now collaborating with [Uncle-Liquor](https://github.com/Uncle-Liquor) in the Frontend
+🔭 Now collaborating with [Uncle-Liquor](https://github.com/Uncle-Liquor) in the Frontend
+⚡ Now collaborating with [FrontendCafe - CMYK 4.0](https://github.com/frontendcafe/cmyk-strawberry) in the Frontend
+🌱 Trainee Onboarding in [Rooftop Academy](https://www.rooftopacademy.com/) in the Frontend
 
 - 📫 How to reach me: kevin.developer71@gmail.com
-
 
 **Main Programming Languages**
 
@@ -21,6 +20,7 @@ now collaborating with [Uncle-Liquor](https://github.com/Uncle-Liquor) in the Fr
 - Next.js - [Ecommerce](https://previewdesafio.vercel.app/)
 - The Odin Project
     - google html and css -  [live demo](https://kevin-dev71.github.io/TOP-google-homepage/)
+- FreeCodeCamp Certifications in Javascript and Libraries
 
 
 <!--
