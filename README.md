@@ -2,9 +2,9 @@
 
 ### I am a MERN stack developer on the making
 
-🔭 Now collaborating with [Uncle-Liquor](https://github.com/Uncle-Liquor) in the Frontend
-⚡ Now collaborating with [FrontendCafe - CMYK 4.0](https://github.com/frontendcafe/cmyk-strawberry) in the Frontend
-🌱 Trainee Onboarding in [Rooftop Academy](https://www.rooftopacademy.com/) in the Frontend
+- 🔭 Now collaborating with [Uncle-Liquor](https://github.com/Uncle-Liquor) in the Frontend
+- ⚡ Now collaborating with [FrontendCafe - CMYK 4.0](https://github.com/frontendcafe/cmyk-strawberry) in the Frontend
+- 🌱 Trainee Onboarding in [Rooftop Academy](https://www.rooftopacademy.com/) in the Frontend
 
 - 📫 How to reach me: kevin.developer71@gmail.com
 
