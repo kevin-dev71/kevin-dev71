@@ -2,7 +2,7 @@
 
 ### I am a MERN stack developer on the making
 
-- 🔭 Now collaborating with [Uncle-Liquor](https://github.com/Uncle-Liquor) in the Frontend
+- 🔭 Now collaborating with [Tiquor.org](https://github.com/tiquor) in the Frontend
 - ⚡ Now collaborating with [FrontendCafe - CMYK 4.0](https://github.com/frontendcafe/cmyk-strawberry) in the Frontend
 - 🌱 Intern Onboarding in [Rooftop Academy](https://www.rooftopacademy.com/) in the Frontend
 - CandyMachine, MEtaplex, Solana, NFT Minting.
@@ -16,7 +16,7 @@
 <code><a href="https://github.com/kevin-dev71?tab=repositories&language=javascript"><img height="36" title="Javascript" alt="Javascript" src="https://cdn.svgporn.com/logos/javascript.svg"></a></code>
 <code><a href="https://github.com/kevin-dev71?tab=repositories&language=typescript"><img height="42" title="Typescript" alt="Typescript" src="https://www.pngkey.com/png/detail/826-8263457_react-with-typescript-react.png"></a></code>
 
-# Projects 💻 + 🧠 = 🏆
+# Some Projects 💻 + 🧠 = 🏆
 
 - VanillaJS Project: https://vanillakev.netlify.app/   — from *[Codding Addict](https://www.youtube.com/watch?v=90PgFUPIybY)*
 - Next.js - [Ecommerce](https://previewdesafio.vercel.app/)
