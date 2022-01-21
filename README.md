@@ -32,6 +32,12 @@
  - 💻 Programming
  - 🤓 Geek
 
+### Main Skills
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
+
 ### 📈 My GitHub Stats
 <p>
 <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=kevin-dev71&sshow_icons=true&theme=gotham&count_private=true">
