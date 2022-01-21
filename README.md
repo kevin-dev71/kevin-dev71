@@ -1,5 +1,6 @@
 # Hi there 👋 i'm Kevin
-
+![](https://visitor-badge.glitch.me/badge?page_id=kevin-dev71.kevin-dev71)
+<br />
 ### I am a MERN stack developer on the making
 
 - 🔭 Now collaborating with [Tiquor.org](https://github.com/tiquor) in the Frontend
