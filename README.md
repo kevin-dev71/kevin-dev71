@@ -1,12 +1,12 @@
 # Hi there 👋 i'm Kevin
 ![](https://visitor-badge.glitch.me/badge?page_id=kevin-dev71.kevin-dev71)
 <br />
-### I am a MERN stack developer on the making
+### I am a Frontend Developer, Nextjs and React.
 
 - 🔭 Now collaborating with [Tiquor.org](https://github.com/tiquor) in the Frontend
 - ⚡ Now collaborating with [FrontendCafe - CMYK 4.0](https://github.com/frontendcafe/cmyk-strawberry) in the Frontend
 - 🌱 Intern Onboarding in [Rooftop Academy](https://www.rooftopacademy.com/) in the Frontend
-- CandyMachine, Metaplex, Solana, NFT Minting, Blockchain, web3js, nodejs.
+- CandyMachine, Metaplex, Solana, NFT Minting, NFT Marketplaces, Blockchain, web3js, nodejs.
 
 - 📫 How to reach me: kevin.developer71@gmail.com
 
