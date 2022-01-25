@@ -3,9 +3,9 @@
 <br />
 ### I am a Frontend Developer, Nextjs and React.
 
-- 🔭 Now collaborating with [Tiquor.org](https://github.com/tiquor) in the Frontend
-- ⚡ Now collaborating with [FrontendCafe - CMYK 4.0](https://github.com/frontendcafe/cmyk-strawberry) in the Frontend
-- 🌱 Intern Onboarding in [Rooftop Academy](https://www.rooftopacademy.com/) in the Frontend
+- 🔭 Now collaborating with [Tiquor.org](https://github.com/tiquor) with the Frontend Team.
+- ⚡ Now collaborating with [FrontendCafe - CMYK 4.0](https://github.com/frontendcafe/cmyk-strawberry) with the Frontend Community.
+- 🌱 Intern Onboarding in [Rooftop Academy](https://www.rooftopacademy.com/) with the Frontend Community.
 - CandyMachine, Metaplex, Solana, NFT Minting, NFT Marketplaces, Blockchain, web3js, nodejs.
 
 - 📫 How to reach me: kevin.developer71@gmail.com
