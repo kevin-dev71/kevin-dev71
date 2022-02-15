@@ -39,10 +39,9 @@
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
 
 ### 📈 My GitHub Stats
-<p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=kevin-dev71&sshow_icons=true&theme=gotham&count_private=true">
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin-dev71&exclude_repo=ishrimp,traderapp,tradingapp,learning.test&layout=compact&theme=monokai&count_private=true">
-</p>
+
+<div><img height="150px" src="https://github-readme-stats.vercel.app/api?username=kevin-dev71&sshow_icons=true&theme=gotham&count_private=true" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin-dev71&exclude_repo=ishrimp,traderapp,tradingapp,learning.test&layout=compact&theme=monokai&count_private=true" /></div>
+<br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kevin-dev71&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
