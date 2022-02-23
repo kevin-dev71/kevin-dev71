@@ -1,7 +1,12 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm Kevin
 ![](https://visitor-badge.glitch.me/badge?page_id=kevin-dev71.kevin-dev71)
 <br />
-### I am a Frontend Developer, Nextjs and React.
+### I am a Frontend Developer, Nextjs and React. (Open for Work!, feel free to contact me.)
+
+<details>
+  <summary>Actually working in a NSFW NFT Solana Project.</summary>
+  https://aiko.io/ is a Erotic Solana stakeable NFT collection, powered by rust, solana/web3.js and nextjs.
+</details>
 
 - 🔭 Now collaborating with [Tiquor.org](https://github.com/tiquor) with the Frontend Team.
 - ⚡ Now collaborating with [FrontendCafe - CMYK 4.0](https://github.com/frontendcafe/cmyk-strawberry) with the Frontend Community.
@@ -21,10 +26,7 @@
 # Some Projects 💻 + 🧠 = 🏆
 
 - VanillaJS Project: https://vanillakev.netlify.app/   — from *[Codding Addict](https://www.youtube.com/watch?v=90PgFUPIybY)*
-- Next.js - [Ecommerce](https://previewdesafio.vercel.app/)
-- The Odin Project
-    - google html and css -  [live demo](https://kevin-dev71.github.io/TOP-google-homepage/)
-- FreeCodeCamp Certifications in Javascript and Libraries
+- [Aerolab Frontend Coding Challenge](https://github.com/Aerolab/frontend-developer-coding-challenge) - [deploy (WIP)](https://aerolab-fe-challenge.vercel.app/)
 
 ### 💬 Ask me about ...
  - 🎮 Gaming
