@@ -27,6 +27,10 @@
 
 - VanillaJS Project: https://vanillakev.netlify.app/   — from *[Codding Addict](https://www.youtube.com/watch?v=90PgFUPIybY)*
 - [Aerolab Frontend Coding Challenge](https://github.com/Aerolab/frontend-developer-coding-challenge) - [deploy (WIP)](https://aerolab-fe-challenge.vercel.app/)
+- <details>
+  <summary>NSFW NFT Solana Project.</summary>
+  https://aiko.io/ is a Erotic Solana stakeable NFT collection, powered by rust, solana/web3.js and nextjs.
+</details>
 
 ### 💬 Ask me about ...
  - 🎮 Gaming
