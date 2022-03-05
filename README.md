@@ -21,7 +21,7 @@
 <code><a href="https://github.com/kevin-dev71?tab=repositories&language=CSS"><img height="42" title="CSS3" alt="CSS3" src="https://cdn.svgporn.com/logos/css-3.svg"></a></code>
 <code><a href="https://github.com/kevin-dev71?tab=repositories&language=javascript"><img height="36" title="Javascript" alt="Javascript" src="https://cdn.svgporn.com/logos/javascript.svg"></a></code>
 <code><a href="https://github.com/kevin-dev71?tab=repositories&language=typescript"><img height="42" title="Typescript" alt="Typescript" src="https://www.pngkey.com/png/detail/826-8263457_react-with-typescript-react.png"></a></code>
-<code><a href="https://github.com/kevin-dev71?tab=repositories&language=node"><img height="42" title="Nodejs" alt="Nodejs" src="https://image.pngaaa.com/703/4547703-small.png"></a></code>
+<code><a href="https://github.com/kevin-dev71?tab=repositories&language=node"><img height="42" title="Nodejs" alt="Nodejs" src="https://image.pngaaa.com/703/4547703-small.png"></a></code><img height="42" title="GraphQL" alt="GraphQL" src="https://symphony.is/media/blogs/2019/02/og-image.png">
 
 # Some Projects 💻 + 🧠 = 🏆
 
