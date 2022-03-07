@@ -21,9 +21,10 @@
 <code><a href="https://github.com/kevin-dev71?tab=repositories&language=CSS"><img height="42" title="CSS3" alt="CSS3" src="https://cdn.svgporn.com/logos/css-3.svg"></a></code>
 <code><a href="https://github.com/kevin-dev71?tab=repositories&language=javascript"><img height="36" title="Javascript" alt="Javascript" src="https://cdn.svgporn.com/logos/javascript.svg"></a></code>
 <code><a href="https://github.com/kevin-dev71?tab=repositories&language=typescript"><img height="42" title="Typescript" alt="Typescript" src="https://www.pngkey.com/png/detail/826-8263457_react-with-typescript-react.png"></a></code>
-<code><a href="https://github.com/kevin-dev71?tab=repositories&language=typescript"><img height="42" title="Redux" alt="Redux" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png"></a></code>
-<code><a href="https://github.com/kevin-dev71?tab=repositories&language=typescript"><img height="42" title="Nextjs" alt="Nextjs" src="https://miro.medium.com/max/1176/1*LvA59wJi3O9jTMQQsw_cRA.png"></a></code>
+<code><a href="https://github.com/kevin-dev71?tab=repositories&language=typescript"><img height="42" title="Redux" alt="Redux" src="https://img2.freepng.es/20180511/zie/kisspng-redux-react-javascript-vue-js-single-page-applicat-5af5cde3d3a5e8.2671715915260584678669.jpg"></a></code>
+<code><a href="https://github.com/kevin-dev71?tab=repositories&language=typescript"><img height="42" title="Nextjs" alt="Nextjs" src="https://nextjs.org/static/favicon/favicon.ico"></a></code>
 <code><a href="https://github.com/kevin-dev71?tab=repositories&language=node"><img height="42" title="Nodejs" alt="Nodejs" src="https://image.pngaaa.com/703/4547703-small.png"></a></code><img height="42" title="GraphQL" alt="GraphQL" src="https://listimg.pinclipart.com/picdir/s/544-5441989_graphql-graphql-logo-png-clipart.png">
+<img height="42" title="Apollo Client" alt="Apollo Client" src="https://miro.medium.com/max/400/1*2iQRjEG1CmOcpTacuxbPjA.png">
 <img height="42" title="Firebase" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Vertical-BG_0.png?itok=8Tuac9I3" alt="docker" width="40" height="40"/>
 <img src="https://e7.pngegg.com/pngimages/429/72/png-clipart-mysql-database-graphics-microsoft-access-logo-blue-web-design-thumbnail.png" alt="MySQL" width="40" height="40"/>
