@@ -8,11 +8,12 @@
   https://aiko.io/ is a Erotic Solana stakeable NFT collection, powered by rust, solana/web3.js and nextjs.
 </details>
 
-- 🔭 Now collaborating with [Tiquor.org](https://github.com/tiquor) with the Frontend Team.
+- 🔭 Staff and Collaborator in [Gentleman Programming](https://discord.gg/sqRpMcm5) Discord Server.
 - ⚡ Now collaborating with [FrontendCafe - CMYK 4.0](https://github.com/frontendcafe/cmyk-strawberry) with the Frontend Community.
 - 🌱 Intern Onboarding in [Rooftop Academy](https://www.rooftopacademy.com/) with the Frontend Community.
 - CandyMachine, Metaplex, Solana, NFT Minting, NFT Marketplaces, Blockchain, web3js, nodejs.
-
+- 🔭 Now collaborating with [Tiquor.org](https://github.com/tiquor) with the Frontend Team.
+- 
 - 📫 How to reach me: kevin.developer71@gmail.com
 
 **Main Programming Languages**
