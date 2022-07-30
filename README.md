@@ -4,7 +4,7 @@
 ### I am a Frontend Developer, Nextjs and React. (Open for Work!, feel free to contact me.)
 
 <details>
-  <summary>Currently working in a NSFW NFT Solana Project.</summary>
+  <summary>NSFW NFT Solana Project.</summary>
   https://aiko.io/ is a Erotic Solana stakeable NFT collection, powered by rust, solana/web3.js and nextjs.
 </details>
 
