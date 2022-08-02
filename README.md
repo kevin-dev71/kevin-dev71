@@ -27,7 +27,7 @@
 <code><a href="https://github.com/kevin-dev71?tab=repositories&language=node"><img height="42" title="Nodejs" alt="Nodejs" src="https://image.pngaaa.com/703/4547703-small.png"></a></code><img height="42" title="GraphQL" alt="GraphQL" src="https://listimg.pinclipart.com/picdir/s/544-5441989_graphql-graphql-logo-png-clipart.png">
 <img height="42" title="Apollo Client" alt="Apollo Client" src="https://miro.medium.com/max/400/1*2iQRjEG1CmOcpTacuxbPjA.png">
 <img height="42" title="Firebase" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Vertical-BG_0.png?itok=8Tuac9I3" alt="docker" width="40" height="40"/>
+<img src="https://www.howtogeek.com/wp-content/uploads/csit/2021/04/075c8694.jpeg?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="docker" width="40" height="40"/>
 <img src="https://e7.pngegg.com/pngimages/429/72/png-clipart-mysql-database-graphics-microsoft-access-logo-blue-web-design-thumbnail.png" alt="MySQL" width="40" height="40"/>
 
 # Some Projects 💻 + 🧠 = 🏆
