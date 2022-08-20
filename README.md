@@ -31,9 +31,7 @@
 <img src="https://e7.pngegg.com/pngimages/429/72/png-clipart-mysql-database-graphics-microsoft-access-logo-blue-web-design-thumbnail.png" alt="MySQL" width="40" height="40"/>
 
 # Some Projects 💻 + 🧠 = 🏆
-
-- VanillaJS Project: https://vanillakev.netlify.app/   — from *[Codding Addict](https://www.youtube.com/watch?v=90PgFUPIybY)*
-- [Aerolab Frontend Coding Challenge (WIP)](https://aerolab-fe-challenge.vercel.app/)  -  [challenge repo](https://github.com/Aerolab/frontend-developer-coding-challenge)
+- [Marcadores247](https://www.marcadores247.com/)
 - <details>
   <summary>NSFW NFT Solana Project.</summary>
   https://aiko.io/ is a Erotic Solana stakeable NFT collection, powered by rust, solana/web3.js and nextjs.
