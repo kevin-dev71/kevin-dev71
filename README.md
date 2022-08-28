@@ -3,6 +3,8 @@
 <br />
 ### I am a Frontend Developer, Nextjs and React. (Open for Work!, feel free to contact me.)
 
+Currently, i am learning React Native, and NestJs for Backend. 🤓
+
 <details>
   <summary>NSFW NFT Solana Project.</summary>
   https://aiko.io/ is a Erotic Solana stakeable NFT collection, powered by rust, solana/web3.js and nextjs.
@@ -13,7 +15,6 @@
 - 🌱 Bootcamp Frontend in [Rooftop Academy](https://www.rooftopacademy.com/).
 - CandyMachine, Metaplex, Solana, NFT Minting, NFT Marketplaces, Blockchain, web3js, nodejs.
 - 🔭 Now collaborating with [Tiquor.org](https://github.com/tiquor) with the Frontend Team.
-- 
 - 📫 How to reach me: kevin.developer71@gmail.com
 
 **Main Programming Languages**
