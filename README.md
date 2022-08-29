@@ -8,6 +8,7 @@ Currently, i am learning React Native, and NestJs for Backend. 🤓
 <details>
   <summary>NSFW NFT Solana Project.</summary>
   https://aiko.io/ is a Erotic Solana stakeable NFT collection, powered by rust, solana/web3.js and nextjs.
+  https://aiko.art/ is a Erotic NFT Storefront and NFT Marketplace, powered by rust, solana/web3.js and nextjs.
 </details>
 
 - 🔭 Collaborator in [Gentleman Programming](https://discord.gg/sqRpMcm5) Discord Server.
