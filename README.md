@@ -12,8 +12,10 @@ Currently, i am learning React Native and RUST. 🤓
 </details>
 
 - 🔭 Collaborator in [Gentleman Programming](https://discord.gg/sqRpMcm5) Discord Server.
+- ⚡ Collaborative Project [FrontendCafe - CMYK 5.0](https://github.com/frontendcafe/air-flashcards) with the Frontend Community.
 - ⚡ Collaborative Project [FrontendCafe - CMYK 4.0](https://github.com/frontendcafe/cmyk-strawberry) with the Frontend Community.
 - 🌱 Bootcamp Frontend in [Rooftop Academy](https://www.rooftopacademy.com/).
+- 🌱 Bootcamp FullStack in LarnU in [LarnU](https://www.larnu.com/).
 - CandyMachine, Metaplex, Solana, NFT Minting, NFT Marketplaces, Blockchain, web3js, nodejs.
 - 🔭 Now collaborating with [Tiquor.org](https://github.com/tiquor) with the Frontend Team.
 - 📫 How to reach me: kevin.developer71@gmail.com
