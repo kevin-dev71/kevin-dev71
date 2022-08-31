@@ -3,7 +3,7 @@
 <br />
 ### I am a FullStack Developer, more into Nextjs and React at the moment. (Open for Work!, feel free to contact me.)
 
-Currently, i am learning React Native, and NestJs for Backend. 🤓
+Currently, i am learning React Native and RUST. 🤓
 
 <details>
   <summary>NSFW NFT Solana Project.</summary>
