@@ -1,6 +1,10 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px" /> i'm Kevin
 ![](https://visitor-badge.glitch.me/badge?page_id=kevin-dev71.kevin-dev71)
 <br />
+<p align="center">
+<img src="https://user-images.githubusercontent.com/39138605/188782252-b7cc929d-d396-45ba-a443-9fbfde80def8.jpeg" width="120" height="120" alt="kevin au" />
+</p>
+
 ### I am a FullStack Developer, more into Nextjs and React at the moment. (Open for Work!, feel free to contact me.)
 
 Currently, i am learning React Native and RUST. 🤓
