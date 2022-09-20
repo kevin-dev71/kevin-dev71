@@ -31,8 +31,7 @@ Currently, i am learning React Native and RUST. 🤓
 <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
 <img src="https://www.howtogeek.com/wp-content/uploads/csit/2021/04/075c8694.jpeg?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="docker" width="75" height="40"/>
 
-## My CodeWars Rank
-<a href="https://www.codewars.com/users/kevin-dev71" target="_blank"><img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="40" height="40" /></a>
+<a href="https://www.codewars.com/users/kevin-dev71" target="_blank"><img src="https://www.codewars.com/users/kevin-dev71/badges/large"/></a>
 
 # Some Projects 💻 + 🧠 = 🏆
 - [Marcadores247](https://www.marcadores247.com/)
