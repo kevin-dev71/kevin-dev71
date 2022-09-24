@@ -41,6 +41,9 @@ Currently, i am learning React Native and RUST. 🤓
   - https://aiko.art/ is a Erotic NFT Storefront and NFT Marketplace, powered by rust, solana/web3.js and nextjs.
 </details>
 
+## Side projects
+- [weather web](https://nextjs-weather-app-lyart.vercel.app/)
+
 ### 💬 Ask me about ...
 <div>
  
