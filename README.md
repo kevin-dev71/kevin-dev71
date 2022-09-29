@@ -33,6 +33,8 @@ Currently, i am learning React Native and RUST. 🤓
 
 <a href="https://www.codewars.com/users/kevin-dev71" target="_blank"><img src="https://www.codewars.com/users/kevin-dev71/badges/large"/></a>
 
+[![@kevindev71's Holopin board](https://holopin.io/api/user/board?user=kevindev71)](https://holopin.io/@kevindev71)
+
 # Some Projects 💻 + 🧠 = 🏆
 - [Marcadores247](https://www.marcadores247.com/)
 - <details>
