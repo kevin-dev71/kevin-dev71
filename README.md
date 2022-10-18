@@ -2,7 +2,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=kevin-dev71.kevin-dev71)
 <br />
 
-### I am a FullStack Developer, more into Nextjs and React at the moment. (Open for Work!, feel free to contact me.)
+### I am a FullStack Developer, more into Nextjs and React at the moment.
 
 Currently, i am learning React Native and RUST. 🤓
 
@@ -14,6 +14,7 @@ Currently, i am learning React Native and RUST. 🤓
 - CandyMachine, Metaplex, Solana, NFT Minting, NFT Marketplaces, Blockchain, web3js, nodejs.
 - 🔭 Now collaborating with [Tiquor.org](https://github.com/tiquor) with the Frontend Team.
 - 📫 How to reach me: kevin.developer71@gmail.com
+- 🌎 Working as Frontend Dev at [Zeleri](https://www.zeleri.com/).
 
 **Main Programming Languages**
 
