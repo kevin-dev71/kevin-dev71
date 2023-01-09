@@ -3,6 +3,7 @@
 <br />
 
 ### I am a FullStack Developer, more into Nextjs and React at the moment.
+### Frontend Lead @Zeleri
 
 Currently, i am learning React Native and RUST. 🤓
 
