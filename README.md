@@ -19,7 +19,9 @@ Currently, i am learning React Native and RUST. 🤓
 
 **Main Programming Languages**
 
-<code><a href="https://github.com/kevin-dev71?tab=repositories&language=HTML"><img height="42" title="HTML5" alt="HTML5" src="https://cdn.svgporn.com/logos/html-5.svg"></a></code>
+<code><img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,redux,nextjs,nodejs,graphql,apollo,firebase,mysql,mongodb,nextjs,docker&theme=dark"/></code>
+
+<!-- <code><a href="https://github.com/kevin-dev71?tab=repositories&language=HTML"><img height="42" title="HTML5" alt="HTML5" src="https://cdn.svgporn.com/logos/html-5.svg"></a></code>
 <code><a href="https://github.com/kevin-dev71?tab=repositories&language=CSS"><img height="42" title="CSS3" alt="CSS3" src="https://cdn.svgporn.com/logos/css-3.svg"></a></code>
 <code><a href="https://github.com/kevin-dev71?tab=repositories&language=javascript"><img height="36" title="Javascript" alt="Javascript" src="https://cdn.svgporn.com/logos/javascript.svg"></a></code>
 <code><a href="https://github.com/kevin-dev71?tab=repositories&language=typescript"><img height="42" title="Typescript" alt="Typescript" src="https://www.pngkey.com/png/detail/826-8263457_react-with-typescript-react.png"></a></code>
@@ -31,7 +33,7 @@ Currently, i am learning React Native and RUST. 🤓
 <img src="https://e7.pngegg.com/pngimages/429/72/png-clipart-mysql-database-graphics-microsoft-access-logo-blue-web-design-thumbnail.png" alt="MySQL" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" width="40" height="40"/>
 <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40"/>
-<img src="https://www.howtogeek.com/wp-content/uploads/csit/2021/04/075c8694.jpeg?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="docker" width="75" height="40"/>
+<img src="https://www.howtogeek.com/wp-content/uploads/csit/2021/04/075c8694.jpeg?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="docker" width="75" height="40"/> -->
 
 <a href="https://www.codewars.com/users/kevin-dev71" target="_blank"><img src="https://www.codewars.com/users/kevin-dev71/badges/large"/></a>
 
