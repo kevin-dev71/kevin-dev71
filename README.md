@@ -5,7 +5,7 @@
 ### I am a FullStack Developer, more into Nextjs and React at the moment.
 ### Frontend Lead @Zeleri
 
-Currently, i am learning React Native and RUST. 🤓
+Currently, i am learning [GoLang](http://www.pazams.com/Go-for-Javascript-Developers/). 🤓
 
 - 🔭 Collaborator in [Gentleman Programming](https://discord.gg/sqRpMcm5) Discord Server.
 - ⚡ Collaborative Project [FrontendCafe - CMYK 5.0](https://github.com/frontendcafe/air-flashcards) with the Frontend Community.
