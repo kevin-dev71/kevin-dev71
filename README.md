@@ -2,6 +2,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=kevin-dev71.kevin-dev71)
 <br />
 
+<code><img src="https://github.com/kevin-dev71/kevin-dev71/assets/39138605/b43f612b-a4e5-463a-a15a-47379324ff40" width="300px"/></code>
+
 ### I am a FullStack Developer, more into Nextjs and React at the moment.
 ### Frontend Lead @Zeleri
 
