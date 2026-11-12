@@ -4,10 +4,7 @@
 
 <code><img src="https://github.com/kevin-dev71/kevin-dev71/assets/39138605/b43f612b-a4e5-463a-a15a-47379324ff40" width="300px"/></code>
 
-### I am a FullStack Developer, more into Nextjs and React at the moment.
-### Frontend Lead @Zeleri
-
-Currently, i am learning [GoLang](http://www.pazams.com/Go-for-Javascript-Developers/). 🤓
+### I am a Frontend Developer, more into Nextjs and React at the moment.
 
 - 🔭 Collaborator in [Gentleman Programming](https://discord.gg/sqRpMcm5) Discord Server.
 - ⚡ Collaborative Project [FrontendCafe - CMYK 5.0](https://github.com/frontendcafe/air-flashcards) with the Frontend Community.
